@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (PolyGen.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  BigFixed.cpp
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigLong.h(13): warning C4244: инициализация: преобразование "double" в "const ll", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigLong.h(15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigLong.h(21): warning C4267: return: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.h(8): warning C4244: инициализация: преобразование "double" в "const ll", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(79): warning C4244: инициализация: преобразование "double" в "ll", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(162): warning C4244: инициализация: преобразование "double" в "ll", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(232): warning C4930: BigLong zer(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(382): warning C4244: аргумент: преобразование "ll" в "double", возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(412): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=ll
+          ]
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(420): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\PolyGen\BigFixed.cpp(90): warning C4715: BigFixed::operator>: значение возвращается не при всех путях выполнения
+  PolyGen.vcxproj -> D:\KirillPal\Documents\Visual Studio 2019\Projects\AutoPupil\x64\Debug\AutoPupil.exe
