@@ -1,2 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (PolyGen.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  PolyGen.vcxproj -> F:\AutoPupil\x64\Release\AutoPupil.exe
